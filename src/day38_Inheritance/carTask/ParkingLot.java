@@ -1,4 +1,8 @@
-package day38_Inheritance;
+package day38_Inheritance.carTask;
+
+import day38_Inheritance.carTask.BMW;
+import day38_Inheritance.carTask.Tesla;
+import day38_Inheritance.carTask.Toyota;
 
 public class ParkingLot {
     public static void main(String[] args) {

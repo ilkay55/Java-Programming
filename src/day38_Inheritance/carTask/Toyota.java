@@ -1,4 +1,6 @@
-package day38_Inheritance;
+package day38_Inheritance.carTask;
+
+import day38_Inheritance.carTask.Car;
 
 public class Toyota extends Car {
 
